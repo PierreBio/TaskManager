@@ -9,7 +9,7 @@ This project focuses on the development of a __Task Manager__ created as part of
 ### Prerequisites
 
 - Python 3.11
-- (Optionnel) Poetry pour la gestion des dépendances
+- (Optional) Poetry for dependencies management
 
 
 ### Setup with Poetry
